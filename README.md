@@ -10,14 +10,14 @@ Repositorio oficial del proyecto final integrador para la materia **Redes de Com
 
 ## 📌 Descripción General
 
-**Gran Riviera Resort** cuenta con infraestructura operativa en tres polos turísticos clave de México: **Puerto Vallarta**, **Yucatán (Mérida)** y **Tulum**. La red unifica los servicios corporativos, el control domótico (IoT) y la telefonía VoIP a través de un backbone de interconexión en la Nube (WAN).
+**Gran Riviera Resort** cuenta con infraestructura operativa en tres polos turísticos clave de México: **Puerto Vallarta**, **Puerto Escondido** y **Tulum**. La red unifica los servicios corporativos, el control domótico (IoT) y la telefonía VoIP a través de un backbone de interconexión en la Nube (WAN).
 
 ### 🏛️ Distribución de Servicios por Sede
 
 | Ciudad / Región | Edificios de Oficina | Servicios Implementados |
 | :--- | :--- | :--- |
 | 🌊 **Puerto Vallarta** | Oficina Hotel Central & Torre Suites | Servidor WEB (`www.granriviera.com`), DHCP 1, Telefonía IP, Dispositivos IoT |
-| 🏛️ **Yucatán (Mérida)** | Oficina Administrativa & Centro Logístico | Servidor DNS, Servidor CORREO (`@granriviera.com`), DHCP 2, Telefonía IP, IoT |
+| 🏄‍♂️ **Puerto Escondido** | Oficina Administrativa & Centro Logístico | Servidor DNS, Servidor CORREO (`@granriviera.com`), DHCP 2, Telefonía IP, IoT |
 | 🌴 **Tulum** | Oficina Resort Eco & Centro Eventos | Servidor FTP (Respaldo), DHCP 3, Telefonía IP, Dispositivos IoT |
 
 ---
